@@ -1,0 +1,2 @@
+# peadstar
+git練習
